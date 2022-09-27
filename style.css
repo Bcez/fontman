@@ -1,0 +1,28 @@
+p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    color:azure
+}
+
+body {
+        background-image:url("e920f327-3387-4154-8a4d-9bfd54550848.png");
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: snow;
+    bottom: 0px;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+
+  canvas{
+    border:5px solid white;
+    border-radius:5px;
+    box-shadow:5px 5px 5px grey;
+    margin-top: 160px;
+  }
+ 
